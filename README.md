@@ -1,2 +1,2 @@
-# Codifica-o_Huffman
+# Codificação Huffman
 Algoritmo de codificação huffman
