@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 import sys
 
-arquivo = input("Digite o nome do arquivo de texo que deseja codificar: ")
+arquivo = input("Digite o nome do arquivo de texto que deseja codificar: ")
 
 with open(arquivo, 'r') as meu_texto:
 	string = meu_texto.read()
